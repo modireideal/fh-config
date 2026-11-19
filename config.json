@@ -1,0 +1,10 @@
+{
+  "base_url": "https://filerhub.ir/",
+  "api_url": "https://filerhub.ir/fhapi/",
+  "latest_version_code": 1,
+  "force_update": false,
+  "update_url": "https://filerhub.ir/downloads/filerhub.apk",
+  "maintenance_mode": false,
+  "maintenance_message": "سرورهای فایلرهاب در حال به‌روزرسانی هستند. لطفاً ۱۰ دقیقه دیگر تلاش کنید.",
+  "support_telegram": "https://https://t.me/newgreenincome"
+}
