@@ -1,7 +1,7 @@
 {
   "base_url": "https://filerhub.ir/",
   "api_url": "https://filerhub.ir/fhapi/",
-  "latest_version_code": 1.1,
+  "latest_version_code": 1,
   "force_update": false,
   "update_url": "https://filerhub.ir/downloads/filerhub.apk",
   "maintenance_mode": false,
